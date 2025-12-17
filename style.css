@@ -1,0 +1,13 @@
+body {
+    max-width: 640px;
+    margin: 40px auto;
+    padding: 0 20px;
+    background-color: #f0f0ee;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+main,
+footer {
+    text-align: center;
+}
